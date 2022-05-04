@@ -28,7 +28,7 @@
 
 • Custom hooks in './src/hooks/*.js'
 
-• Locales are stored in './public/locales/*/locale.json'
+• Locales are stored in './public/locales/*/*.json'
 
 • Routes are defined in './src/routes.js'
 
