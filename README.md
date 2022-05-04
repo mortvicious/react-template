@@ -30,6 +30,8 @@
 
 • Locales are stored in './public/locales/*/locale.json'
 
+• Routes are defined in './src/routes.js'
+
 ## Components are separated from pages
 
 # What should be implemented in future
