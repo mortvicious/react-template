@@ -1,6 +1,7 @@
 @import './colors';
 @import './fonts';
-@import './shared';
+@import './common';
+@import '../animations/animations';
 
 body {
   // font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -62,9 +63,3 @@ h1,h2,h3,h4,h5,h6 {font-weight: 400; font-size: inherit;}
 
 
 ////////////////////////////////////////////////
-
-.test {
-  display: flex;
-  flex-direction: column;
-  z-index: 999;
-}
