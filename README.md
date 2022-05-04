@@ -12,6 +12,8 @@
 
 • mobx
 
+## Yarn is used to install dependencies
+
 # Structure
 
 • Custom global styles and fonts are defined in './src/styles/*.scss'
