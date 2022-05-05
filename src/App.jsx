@@ -1,6 +1,6 @@
 import MainWrapper from "./components/MainWrapper/MainWrapper";
 import './styles/index.scss';
-import Routing from "./Routing";
+import Routing from "./common/routing/Routing";
 
 function App() {
   return (

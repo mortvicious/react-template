@@ -3,14 +3,14 @@ import {
     Routes,
     Route
   } from "react-router-dom";
-import path from './routes'
-import Home from './pages/Home/Home'
+import PATH from './routes'
+import Home from '../pages/Home/Home'
   
   const Routing = () => {
     return(
       <Router>
         <Routes>
-          <Route exact path={path.HOME} element={<Home/>}/>
+          <Route exact path={PATH.HOME} element={<Home/>}/>
         </Routes>
       </Router>
     )
